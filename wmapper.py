@@ -223,5 +223,7 @@ def main():
     else:
         print("No data to save to wifi_report.csv")
 
+
+
 if __name__ == "__main__":
     main()
