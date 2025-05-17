@@ -135,6 +135,8 @@ def parse_wifi_data(wifi_output, os_name, scan_method):
     print("Parsed networks:", networks)
     return networks
 
+#ali
+
 def analyze_interference(networks):
     interference_report = []
     for i, net1 in enumerate(networks):
